@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:padding="10dp" >
+
+    <TextView
+        android:id="@+id/example_textview_a"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Det var en gång en söt liten flicka. Alla som såg henne tyckte om henne. Men allra mest tyckte hennes mormor om henne. En gång gav hon flickan en mycket söt luva av röd sammet. Den passade henne så bra, att hon inte ville ha någonting annat på sig. Det var därför som sedan fick heta Rödluvan."
+        android:textColor="@android:color/black"
+        android:textSize="24sp" />
+
+</LinearLayout>
